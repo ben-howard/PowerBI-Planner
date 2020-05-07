@@ -4,3 +4,5 @@ Supported languages are English, French, Dutch, German, Spanish, Portugues (Braz
 
 
 Please note - your exported excel files need to be in a folder with no other files.  Power BI imports all the files in that folder, and if other files exist in there this will break the import.
+
+Known issues - if you are not using a date format of DD-MM-YYYY you will need to change the regional settings for this file once you have imported the template into PowerBI.  The setting is within the file | options dialogue box of Power BI.  
