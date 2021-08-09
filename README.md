@@ -7,8 +7,12 @@ A .pbit is availalbe for both storage options.
 
 Supported languages are English, French, Dutch, German, Spanish, Portugues (Brazilian) and Russian
 
+For refreshing the report with the exported Planner plans stored in a Windows folder please see this video and blog post.
 https://www.youtube.com/watch?v=Ng8D5czMCuY
 https://applepark.co.uk/planner-task-template-on-github/
+
+For refreshing the report with the exported Planner plans stored in a SharePoint or Teams folder please see this video.
+https://youtu.be/79AFLGoS1yo 
 
 Please note - the exported Planner Excel files need to be in a folder with no other files.  Power BI imports all the files in that folder, and if other files exist in there this will break the import.
 
